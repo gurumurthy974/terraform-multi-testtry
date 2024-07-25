@@ -1,6 +1,4 @@
-module aws {
-source="./aws"
-}
-module gcp {
-source="./gcp"
+module terraform-multi-test{
+source="./terraform-multi-test"
+version="v3.0.0"
 }
